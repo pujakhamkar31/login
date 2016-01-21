@@ -1,0 +1,19 @@
+    body
+{
+    background-color : #484848;
+}
+h1,th,tr
+{
+    color : #000000;
+    text-align : center;
+    font-family: "SIMPSON";
+}
+form
+{
+    alignment-adjust: "center";
+}
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+    color: activecaption;
+}
