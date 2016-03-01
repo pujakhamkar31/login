@@ -1,4 +1,4 @@
-/* example*/
+
 <?php
 include('session.php');
 ?>
