@@ -1,5 +1,3 @@
-
-
 <?php
 include('session.php');
 ?>
