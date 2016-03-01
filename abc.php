@@ -1,7 +1,4 @@
-ythytetyutyuety
-3
-2623
-656
+
 
 <?php
 include('session.php');
